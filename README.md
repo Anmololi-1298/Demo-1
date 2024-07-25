@@ -1,4 +1,4 @@
 # Demo-1
 This is my first Gib repository
 <br/>
-<h3>Author:</h3> <br/>Anmol Oli
+<h3>Author:</h3> <br/>Anmol kumar Oli
